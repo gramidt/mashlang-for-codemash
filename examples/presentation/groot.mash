@@ -1,0 +1,9 @@
+var groot = fun(isTreeFun) {
+	if (isTreeFun() == true) {
+		print(“I AM GROOT”);
+    } else { }
+};
+
+var amIATree = fun() { true };
+
+groot(amIATree);
