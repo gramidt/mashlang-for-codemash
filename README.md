@@ -2,6 +2,8 @@
 
 The Mash programming language for the ["Crafting an interpreted programming language in 60 minutes" session at CodeMash 2022](https://www.codemash.org/session-details/?id=284101) presented by Granville Schmidt ([@gramidt](https://twitter.com/gramidt)).
 
+**[Presentation Slides](https://drive.google.com/file/d/1Z4QucmVj3crGO1RujPp1wTY74eXGRN3j/view?usp=sharing)**
+
 ## Language requirements
 
 - MUST be extremely simple
